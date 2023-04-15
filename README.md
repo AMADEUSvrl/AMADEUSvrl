@@ -26,20 +26,24 @@ Overall, I'm a pretty laid-back and easygoing person - I enjoy learning new thin
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank"><img style="margin: 10px" src="https://algotrading101.com/learn/wp-content/uploads/2020/07/Pine-Script-Guide.png" alt="CSS3" height="25" /></a>  
-<a href="https://www.mql5.com/pt/code" target="_blank"><img style="margin: 10px" src="https://c.mql5.com/i/og/mql5-logo-fb-2.png" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank"><img style="margin: 10px" src="https://algotrading101.com/learn/wp-content/uploads/2020/07/Pine-Script-Guide.png" alt="CSS3" height="50" /></a>  
+<a href="https://www.mql5.com/pt/code" target="_blank"><img style="margin: 10px" src="https://c.mql5.com/i/og/mql5-logo-fb-2.png" alt="CSS3" height="50" /></a>  
 </div>  
 
 <br/>  
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AMADEUSvrl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  

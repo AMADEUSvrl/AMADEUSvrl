@@ -5,9 +5,8 @@
 
 <p align="center">
 <a href="https://solo.to/matheusevaroli" target="_blank"><img src="https://cdn.solo.to/images/link/solo.to.svg" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 
-### Hey 👋, I'm AMADEUS  
+## Hey 👋, I'm AMADEUS
 As a professional trader, my expertise lies in speculative market risk management. 
 
 I've honed my skills and knowledge to succeed in the fast-paced world of trading, and I'm always looking for ways to improve my efficiency and performance.
@@ -41,12 +40,13 @@ Overall, I'm a pretty laid-back and easygoing person - I enjoy learning new thin
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AMADEUSvrl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AMADEUSvrl&include_all_commits=true" align="center" /></div>
 
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

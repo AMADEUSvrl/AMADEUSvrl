@@ -1,4 +1,5 @@
 ## Hey 👋, I'm AMADEUS <img src="https://komarev.com/ghpvc/?username=AMADEUSvrl&&style=flat-square" align="right" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="right" /> 
 My expertise lies in speculative market risk management. 
 
 I'm always looking for ways to improve my efficiency and performance.
@@ -16,7 +17,6 @@ So if you're looking for a developer who's not afraid to tackle new challenges, 
 <a href="https://solo.to/matheusevaroli">Contact me</a>
 
 <p>
-  <!-- Frontend Development -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -34,10 +34,3 @@ So if you're looking for a developer who's not afraid to tackle new challenges, 
   <img alt="MQL5" src="https://img.shields.io/badge/-MQL5-00A4EA?style=flat-square&logo=mql5&logoColor=white" />
   <img alt="TradingView Pinescript" src="https://img.shields.io/badge/-TradingView%20Pinescript-01B3C4?style=flat-square&logo=tradingview&logoColor=white" />
 </p>
-
-<div align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xbigmat&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</div>  
-
